@@ -1,5 +1,4 @@
-<div align="center"><h2>Ray Brown</h2>
-<h3>Junior Software Developer</h3>
+<div align="center"><h1>Ray Brown</h1>
 </div>
 
 <div align="center">
