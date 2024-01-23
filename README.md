@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-<hr>
 <a href="linkedin.com/in/raybrowndev">
     <img src="https://img.shields.io/badge/linkedin.com/in/raybrowndev-235858?style=flat-square&logo=linkedin&logoColor=white">
 </a><a href="mailto:raybrowndev@gmail.com">
@@ -49,7 +48,7 @@ _Software Engineering Student_
 - Team Project Development - Agile Collaboration and Problem Solving in team projects. Collaborated effectively in an agile team environment, resulting in better communication with GitHub merge conflicts and efficient sprint cycles.
 
 
-**Apple** (Nov 2018 - Present)  
+** Apple** (Nov 2018 - Present)  
 _Business Expert_
 
 - Coding Workshop Facilitation - Conducted many in-store “Code Your First App” sessions, using Swift Playgrounds to a diverse audience of all ages and technical background experience. Showcased effective presentation and jargon-busting communication skills to accommodate various levels of understanding.
