@@ -22,17 +22,17 @@
 
 
 
-Full-stack developer and Web Designer with a background in hardware and software B2B sales. I honed essential skills such as strategic selling and achieving ambitious targets for industry standards. My experience as freelance web design, equipped me with proficiency in UI/UX, HTML and CSS. This diverse background has instilled a deep understanding of the end users needs. 
+Full-stack developer and Web Designer with a background in hardware and software B2B sales. I honed essential skills such as strategic selling and achieving ambitious targets for industry standards. My experience as a freelance web designer equipped me with proficiency in UI/UX, HTML, and CSS. This diverse background has instilled a deep understanding of the end-users needs. 
 
-As a career changer from sales to development I have learned and array of skills, most notably being Test-Driven Development, agile teamwork, and Object-Oriented Programming in a software development environment. These key skills have provided a solid foundation for all the projects I have developed myself or as part of a team. 
+As a career changer from sales to development I have learned an array of skills, most notably being Test-Driven Development, agile teamwork, and Object-Oriented Programming in a software development environment. These key skills have provided a solid foundation for all the projects I have developed myself or as part of a team. 
 
-Transitioning into a career of software development felt like a natural progression, driven by my enthusiasm, and hands on experience for the ever growing world technology. I am determined to leverage my prior experience to thrive as a junior developer, bringing a unique blend of business acumen, creativity, and a relentless commitment to excellence to every challenge I undertake.
+Transitioning into a career in software development felt like a natural progression, driven by my enthusiasm, and hands-on experience in the growth of the technology scene. I am determined to leverage my prior experience to thrive as a junior developer, bringing a unique blend of business acumen, creativity, and a relentless commitment to excellence to every challenge I undertake.
 
 ## Recent Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **<a href="https://github.com/clairep94/oppo-games-group6">OppoGames</a>**          | Full-stack social-gaming site with a live gaming lobby, user vs user gaming, comments feed and scoreboard. | MERN stack, socket.io and Tailwind CSS. |
+| **<a href="https://github.com/clairep94/oppo-games-group6">OppoGames</a>**          | Full-stack social-gaming site with a live gaming lobby, user vs user gaming, comments feed, and scoreboard. | MERN stack, socket.io and Tailwind CSS. |
 | **<a href="https://github.com/raybrowndev/acebook-mern-overREACTers">Acebook</a>** | Social media, sharing platform with login/sign up, comment, like, live feed and upload image features | MERN stack, JSON, with jest and cypress testing  |
 | **<a href="https://greenandmoore.co.uk">Green and Moore Accountancy</a>** | Frontend development and deployment of a sustainable and eco-friendly accountancy business | HTML, CSS, JavaScript, PHP, WordPress, SEO |
 
@@ -59,11 +59,11 @@ _Business Expert_
 
 🎨  **Freelance Web Designer** (Nov 2019 - Aug 2022)
 
-- **WordPress Development** - Developed websites using WordPress, to develop customised websites. Enhancing my creative skills alongside technical applies in web applications. 
-- **SEO & HTML/CSS**  - Managed email marketing conversions rates and designs for clients websites. Enhancing my skills for website marketing, resulting in increased traffic for the desired target audience by 8% in 2 months.
-- **UI/UX Design** - Created user centric high-fidelity wireframes in Adobe XD and Figma for efficient client design adjustments , transferring these skills to enhance UML diagram communication with cross-functional teams.
-- **Sustainable Backend Development** - Designed lightweight, low carbon websites. Resulting in high speed websites with an average of 0.46g of CO2, cleaner than 52% of websites.  
-- **Security Maintenance** - Manages security measures, using tools such as cPanel. Demonstrating my commitment create a secure websites, providing peace of mind of clients. 
+- **WordPress Development** - Developed websites using WordPress, to develop customised websites, implementing additional plug-ins for a unique experience.
+- **SEO & HTML/CSS**  - Managed email marketing conversion rates and designs for client websites. Enhancing my skills in website marketing, resulting in increased traffic for the desired target audience by 8% in 2 months.
+- **UI/UX Design** - Created user-centric high-fidelity wireframes in Adobe XD and Figma for efficient client design adjustments, transferring these skills to enhance UML diagram communication with cross-functional teams.
+- **Sustainable Backend Development** - Designed lightweight, low-carbon websites. Resulting in high-speed websites with an average of 0.46g of CO2, cleaner than 52% of websites.  
+- **Security Maintenance** - Manages security measures, using tools such as cPanel. Demonstrating my commitment to creating a secure website, and providing peace of mind to clients. 
 
 <!--
 
@@ -71,7 +71,7 @@ _Business Expert_
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
 
 
 Here's an example
