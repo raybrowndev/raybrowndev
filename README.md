@@ -22,7 +22,7 @@
 
 
 
-Junior Software developer and Web Designer with a background in hardware and software B2B sales. I honed essential skills such as strategic selling and achieving ambitious targets for industry standards. My experience as a freelance web designer equipped me with proficiency in UI/UX, HTML, and CSS. This diverse background has instilled a deep understanding of the end-users needs. 
+Junior Software Developer and Web Designer with a background in hardware and software B2B sales. I honed essential skills such as strategic selling and achieving ambitious targets for industry standards. My experience as a freelance web designer equipped me with proficiency in UI/UX, HTML, and CSS. This diverse background has instilled a deep understanding of the end-users needs. 
 
 As a career changer from sales to development I have learned an array of skills, most notably being Test-Driven Development, agile teamwork, and Object-Oriented Programming in a software development environment. These key skills have provided a solid foundation for all the projects I have developed myself or as part of a team. 
 
