@@ -22,11 +22,11 @@
 
 
 
-Junior Software Developer and Web Designer with a background in hardware and software B2B sales. I honed essential skills such as strategic selling and achieving ambitious targets for industry standards. My experience as a freelance web designer equipped me with proficiency in UI/UX, HTML, and CSS. This diverse background has instilled a deep understanding of the end-users needs. 
+I’m a React developer passionate about frontend development and design, with expertise in Tailwind CSS and Next.js. With over 4 years of experience, I’ve built websites for clients and worked on team projects like an online arcade game using the MERN stack (MongoDB, Express, React, Node.js).
 
 As a career changer from sales to development I have learned an array of skills, most notably being Test-Driven Development, agile teamwork, and Object-Oriented Programming in a software development environment. These key skills have provided a solid foundation for all the projects I have developed myself or as part of a team. 
 
-Transitioning into a career in software development felt like a natural progression, driven by my enthusiasm, and hands-on experience in the growth of the technology scene. I am determined to leverage my prior experience to thrive as a junior developer, bringing a unique blend of business acumen, creativity, and a relentless commitment to excellence to every challenge I undertake.
+Transitioning into a career in software development felt like a natural progression, driven by my enthusiasm, and hands-on experience in the growth of the technology scene. I am determined to leverage my prior experience to bring a unique blend of business acumen, creativity, and a relentless commitment to excellence to every challenge I undertake.
 
 ## Recent Projects
 
