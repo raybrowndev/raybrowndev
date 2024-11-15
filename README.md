@@ -9,7 +9,7 @@ As a career changer through <a href="https://makers.tech">Makers Academy</a>, Iâ
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Feel free to take a look at my <a href="https://github.com/raybrowndev/raybrowndev/cv">GitHub CV</a>  or reach out to me on <a href="https://linkedin.com/in/raybrowndev">LinkedIn</a>.
+Feel free to take a look at my <a href="https://github.com/raybrowndev/cv">GitHub CV</a>  or reach out to me on <a href="https://linkedin.com/in/raybrowndev">LinkedIn</a>.
 
 
 # Languages & Frameworks
