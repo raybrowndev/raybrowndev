@@ -1,6 +1,6 @@
 # Hey, I'm Ray 👋🏾
 
-Frontend Developer with expertise in **React, Next.js, TypeScript, Tailwind, and Jest**, dedicated to crafting user-friendly and sustainable web solutions.
+Frontend Developer with expertise in **React, Next.js, TypeScript, Tailwind, and Jest**, passionate about building user-friendly and sustainable web solutions.
 
 With a background in tech sales at Apple, I bring a deep understanding of user needs, enabling me to build solutions that are both intuitive and impactful. My journey in software engineering began as a freelance web developer, where I refined my skills in **UI/UX, HTML, CSS, JavaScript, and PHP**.
 
