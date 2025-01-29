@@ -1,11 +1,12 @@
 # Hey, I'm Ray 👋🏾
 
-Frontend Developer with a background in B2B sales, where I developed strategic selling skills and achieved ambitious targets. My freelance web design experience honed my proficiency in UI/UX, HTML, and CSS, and deepened my understanding of end-user needs.
+Frontend Developer with expertise in **React, Next.js, TypeScript, Tailwind, and Jest**, dedicated to crafting user-friendly and sustainable web solutions.
 
-As a career changer through <a href="https://makers.tech">Makers Academy</a>, I’ve embraced Test-Driven Development, agile teamwork, and Object-Oriented Programming, building a solid foundation for creating impactful software. Combining my business acumen with a passion for technology, I’m driven to excel as a junior developer and bring creativity and dedication to every project.
+With a background in tech sales at Apple, I bring a deep understanding of user needs, enabling me to build solutions that are both intuitive and impactful. My journey in software engineering began as a freelance web developer, where I refined my skills in **UI/UX, HTML, CSS, JavaScript, and PHP**.
 
+I later earned a scholarship to the <a href="https://makers.tech">Makers Software Engineering Academy</a>, where I strengthened my knowledge of full-stack development. Through collaborative projects using **JavaScript, Python, and React**, I gained hands-on experience in **Object-Oriented Design, SOLID principles, and Test-Driven Development**. I am passionate about leveraging technology to create meaningful digital experiences.
 
-### Currently Working on:
+### Currently Building in:
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
